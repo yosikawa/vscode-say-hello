@@ -3,7 +3,7 @@
   "displayName": "say-hello",
   "publisher": "altalk",
   "description": "just say hello",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "engines": {
     "vscode": "^1.80.0"
@@ -11,6 +11,10 @@
   "categories": [
     "Other"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yosikawa/vscode-say-hello.git"
+  },
   "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {
